@@ -11,3 +11,4 @@ Step 6 – Start App Server
 
 
 //
+![kube](https://user-images.githubusercontent.com/61413624/147732885-2f8188ca-4f51-4080-b4cd-6951aa1e94de.png)
